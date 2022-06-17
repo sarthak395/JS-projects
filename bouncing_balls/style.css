@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+
+header{
+    margin-top: 15%;
+    text-align: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+#canvas{
+    border: 1px solid brown;
+    margin-top: 2%;
+    background-image: linear-gradient(to bottom right, rgba(52, 52, 124,0.2), rgb(133, 121, 121,0.7));
+}
